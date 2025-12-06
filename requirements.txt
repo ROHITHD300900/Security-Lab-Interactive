@@ -1,0 +1,9 @@
+# Core dependencies for Security Lab Interactive
+requests>=2.25.0
+scapy>=2.4.5
+cryptography>=3.4
+python-nmap>=0.7.1
+beautifulsoup4>=4.9.0
+scipy>=1.5.0
+numpy>=1.19.0
+pandas>=1.1.0
